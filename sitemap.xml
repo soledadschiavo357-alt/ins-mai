@@ -1,14 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <!-- Home Page -->
     <url>
         <loc>https://ins-mai.top/</loc>
         <lastmod>2026-01-14</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
-
-    <!-- Main Pages -->
     <url>
         <loc>https://ins-mai.top/about</loc>
         <lastmod>2026-01-14</lastmod>
@@ -33,8 +30,6 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
-
-    <!-- Blog Section -->
     <url>
         <loc>https://ins-mai.top/blog/</loc>
         <lastmod>2026-01-14</lastmod>
@@ -44,19 +39,37 @@
     <url>
         <loc>https://ins-mai.top/blog/how-to-own-instagram-account</loc>
         <lastmod>2026-01-14</lastmod>
-        <changefreq>monthly</changefreq>
+        <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
         <loc>https://ins-mai.top/blog/instagram-account-ban-recovery</loc>
         <lastmod>2026-01-14</lastmod>
-        <changefreq>monthly</changefreq>
+        <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
         <loc>https://ins-mai.top/blog/instagram-account-creation-steps</loc>
         <lastmod>2026-01-14</lastmod>
-        <changefreq>monthly</changefreq>
+        <changefreq>weekly</changefreq>
         <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://ins-mai.top/blog/instagram-banned-after-registration</loc>
+        <lastmod>2026-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://ins-mai.top/blog/how-to-recover-instagram-account</loc>
+        <lastmod>2026-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://ins-mai.top/blog/instagram-account-disabled-guide</loc>
+        <lastmod>2026-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
     </url>
 </urlset>

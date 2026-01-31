@@ -13,7 +13,7 @@ init(autoreset=True)
 
 # --- Configuration & Constants ---
 
-IGNORE_PATHS = {'.git', 'node_modules', '__pycache__', '.vscode', '.idea', 'venv', 'env'}
+IGNORE_PATHS = {'.git', 'node_modules', '__pycache__', '.vscode', '.idea', 'venv', 'env', 'MasterTool'}
 IGNORE_URL_PREFIXES = ('/go/', 'cdn-cgi', 'javascript:', 'mailto:', 'tel:', '#')
 IGNORE_FILES = {'google', '404.html'} # Filenames containing these strings
 
